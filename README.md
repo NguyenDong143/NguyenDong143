@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3de8a1b-cc75-47c0-bbb6-17122c923af9" /><!-- 🌟 GITHUB PROFILE README - Nguyễn Hoàng Đồng -->
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/a3de8a1b-cc75-47c0-bbb6-17122c923af9" /><!-- 🌟 GITHUB PROFILE README - Nguyễn Hoàng Đồng -->
 
 <!-- 🖼️ HEADER BANNER -->
 <p align="center">
