@@ -2,7 +2,7 @@
 
 <!-- 🖼️ HEADER BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/zqGz0fS.png" width="100%" alt="Nguyễn Hoàng Đồng - Fintech Student | Data Analyst | AI Developer">
+  <img src="E:\1696b9fc-f3e3-490d-8c47-3eee81c9b609.png" width="100%" alt="Nguyễn Hoàng Đồng - Fintech Student | Data Analyst | AI Developer">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Nguyễn Hoàng Đồng</span></h1>
