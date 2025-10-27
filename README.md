@@ -1,8 +1,9 @@
-<!-- 🌟 GITHUB PROFILE README - Nguyễn Hoàng Đồng -->
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3de8a1b-cc75-47c0-bbb6-17122c923af9" /><!-- 🌟 GITHUB PROFILE README - Nguyễn Hoàng Đồng -->
 
 <!-- 🖼️ HEADER BANNER -->
 <p align="center">
-  <img src="E:\1696b9fc-f3e3-490d-8c47-3eee81c9b609.png" width="100%" alt="Nguyễn Hoàng Đồng - Fintech Student | Data Analyst | AI Developer">
+  <img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/78a00707-1e9b-4034-a982-6d10b8d4c88d" />
+" width="100%" alt="Nguyễn Hoàng Đồng - Fintech Student | Data Analyst | AI Developer">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Nguyễn Hoàng Đồng</span></h1>
