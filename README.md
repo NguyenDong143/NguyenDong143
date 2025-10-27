@@ -2,7 +2,6 @@
 
 <!-- 🖼️ HEADER BANNER -->
 <p align="center">
-  <img src="<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/78a00707-1e9b-4034-a982-6d10b8d4c88d" />
   "Nguyễn Hoàng Đồng - Fintech Student | Data Analyst | AI Developer">
 </p>
 
