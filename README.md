@@ -2,11 +2,11 @@
 
 <!-- 🖼️ HEADER BANNER -->
 <p align="center">
-  "Nguyễn Hoàng Đồng - Fintech Student | Data Analyst | AI Developer">
+  "Nguyễn Hoàng Đồng - Fintech Student"
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Nguyễn Hoàng Đồng</span></h1>
-<h3 align="center">💼 Fintech Student | Data Analyst | AI Developer</h3>
+<h3 align="center">💼 Fintech Student r</h3>
 
 ---
 
