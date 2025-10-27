@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Nguyễn Hoàng Đồng</span></h1>
-<h3 align="center">💼 Fintech Student r</h3>
+<h3 align="center">💼 Fintech Student </h3>
 
 ---
 
