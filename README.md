@@ -52,27 +52,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NguyenHoangDong&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenHoangDong&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenHoangDong&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenHoangDong&theme=onedark&no-frame=true&row=1&margin-w=10" />
-</p>
-
----
-
 ### 🌍 Connect With Me  
 
 <p align="center">
