@@ -1,5 +1,3 @@
-<img width="1000" height="450" alt="image" src="https://github.com/user-attachments/assets/a3de8a1b-cc75-47c0-bbb6-17122c923af9" /><!-- 🌟 GITHUB PROFILE README - Nguyễn Hoàng Đồng -->
-
 <!-- 🖼️ HEADER BANNER -->
 <p align="center">
   "Nguyễn Hoàng Đồng - Fintech Student"
