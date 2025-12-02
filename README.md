@@ -51,7 +51,7 @@
 #### 🛒 [shopping-cart-master](https://github.com/NguyenDong143/shopping-cart-master)
 > 💻 Java-based web app with product filtering, admin dashboard, and MySQL backend.
 
-#### 💱 [Uniswap V2 Simulation](https://github.com/NguyenDong143/Web-3)
+#### 💱 [Uniswap V2 Demo](https://github.com/NguyenDong143/Uniswap-v2-demo)
 > 🪙 Smart contract simulation of multi-pool liquidity and token swaps using Solidity & Hardhat.
 
 ---
