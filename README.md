@@ -39,13 +39,13 @@
 #### 📊 [Stock Sentiment Analysis](#)
 > 🧠 LSTM-based model integrating financial news sentiment for VN30 stock prediction.
 
-#### 🌐 [Digital GDP Dashboard](#https://github.com/NguyenDong143/digital_GDP_dashboard)
+#### 🌐 [Digital GDP Dashboard](https://github.com/NguyenDong143/digital_GDP_dashboard)
 > 📈 Streamlit app visualizing the impact of digital transformation on Vietnam’s GDP growth.
 
-#### 🛒 [TeaShop E-commerce System](#)
+#### 🛒 [TeaShop E-commerce System](https://github.com/NguyenDong143/TeaShopp)
 > 💻 Java-based web app with product filtering, admin dashboard, and MySQL backend.
 
-#### 💱 [Uniswap V2 Simulation](#)
+#### 💱 [Uniswap V2 Simulation](https://github.com/NguyenDong143/Web-3)
 > 🪙 Smart contract simulation of multi-pool liquidity and token swaps using Solidity & Hardhat.
 
 ---
