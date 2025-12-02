@@ -39,7 +39,7 @@
 #### 📊 [Stock Sentiment Analysis](#)
 > 🧠 LSTM-based model integrating financial news sentiment for VN30 stock prediction.
 
-#### 🌐 [Digital GDP Dashboard](#)
+#### 🌐 [Digital GDP Dashboard](#https://github.com/NguyenDong143/digital_GDP_dashboard)
 > 📈 Streamlit app visualizing the impact of digital transformation on Vietnam’s GDP growth.
 
 #### 🛒 [TeaShop E-commerce System](#)
