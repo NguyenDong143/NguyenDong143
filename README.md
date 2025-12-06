@@ -36,7 +36,7 @@
 
 ### 🚀 Featured Projects  
 
-#### 📊 [Stock Sentiment Analysis](#)
+#### 📊 [Stock Sentiment Analysis](https://github.com/NguyenDong143/Stock-Sentiment-Analysis)
 > 📈 LSTM-based model integrating financial news sentiment for VN30 stock prediction.
 
 #### 📊 [Stock-Sentiment-Econometric-Dashboard](https://github.com/NguyenDong143/Stock-Sentiment-Econometric-Dashboard)
