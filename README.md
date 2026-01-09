@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7;">Nguyễn Hoàng Đồng</span></h1>
-<h3 align="center">💼 Fintech Student </h3>
+<h3 align="center"> Fintech Student </h3>
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 Featured Projects  
+### Featured Projects  
 
 #### 📊 [Stock Sentiment Analysis](https://github.com/NguyenDong143/Stock-Sentiment-Analysis)
 > 📈 LSTM-based model integrating financial news sentiment for VN30 stock prediction.
@@ -54,7 +54,7 @@
 
 ---
 
-### 🌍 Connect With Me  
+### Connect With Me  
 
 <p align="center">
   <a href="mailto:donghoangnguyen214@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
