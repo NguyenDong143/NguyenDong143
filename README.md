@@ -8,11 +8,9 @@
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 
-🎓 I'm a final-year **Fintech student** passionate about **financial data analysis**, **AI applications**, and **digital innovation**.  
-💡 I love transforming data into insights through **machine learning**, **econometrics**, and **interactive dashboards**.  
-🚀 Currently exploring **LSTM-based sentiment prediction** and **blockchain-based credit scoring systems**.
+🎓 I'm a final-year **Fintech student** passionate about **financial data analysis**, **AI applications**, and **digital innovation**. I love transforming data into insights through **machine learning**, **econometrics**, and **interactive dashboards**. Currently exploring **LSTM-based sentiment prediction** and **blockchain-based credit scoring systems**.
 
 ---
 
