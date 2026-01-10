@@ -40,9 +40,6 @@
 #### 📊 [Stock-Sentiment-Econometric-Dashboard](https://github.com/NguyenDong143/Stock-Sentiment-Econometric-Dashboard)
 > 🧠 Examining how financial news sentiment affects manipulated stock prices in the Vietnamese market.
 
-#### 🌐 [Digital GDP Dashboard](https://github.com/NguyenDong143/digital_GDP_dashboard)
-> 📈 Streamlit app visualizing the impact of digital transformation on Vietnam’s GDP growth.
-
 #### 🛒 [TeaShop E-commerce System](https://github.com/NguyenDong143/TeaShopp)
 > 💻 Java-based web app with product filtering, admin dashboard, and SQL server backend.
 
