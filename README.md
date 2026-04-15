@@ -37,7 +37,7 @@
 #### 📊 [VN30 Sentiment - Driven Stock Forecasting](https://github.com/NguyenDong143/Stock-Sentiment-Analysis)
 > 📈 LSTM-based model integrating financial news sentiment for VN30 stock prediction.
 
-#### 📊 [Stock-Sentiment-Econometric-Dashboard](https://github.com/NguyenDong143/Stock-Sentiment-Econometric-Dashboard)
+#### 📊 [NLP Driven Stock Manipulation Detection](https://github.com/NguyenDong143/Stock-Sentiment-Econometric-Dashboard)
 > 🧠 Examining how financial news sentiment affects manipulated stock prices in the Vietnamese market.
 
 #### 🛒 [TeaShop E-commerce System](https://github.com/NguyenDong143/TeaShopp)
