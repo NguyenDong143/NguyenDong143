@@ -40,12 +40,6 @@
 #### 📊 [NLP Driven Stock Manipulation Detection](https://github.com/NguyenDong143/Stock-Sentiment-Econometric-Dashboard)
 > 🧠 Examining how financial news sentiment affects manipulated stock prices in the Vietnamese market.
 
-#### 🛒 [TeaShop E-commerce System](https://github.com/NguyenDong143/TeaShopp)
-> 💻 Java-based web app with product filtering, admin dashboard, and SQL server backend.
-
-#### 💱 [Uniswap V2 Demo](https://github.com/NguyenDong143/Uniswap-v2-demo)
-> 🪙 Smart contract simulation of multi-pool liquidity and token swaps using Solidity & Hardhat.
-
 ---
 
 ### Connect With Me  
