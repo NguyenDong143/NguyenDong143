@@ -17,9 +17,13 @@ I am a final-year Financial Technology student at Posts and Telecommunications I
 My interests include:
 
 - 📊 Financial Data Analytics
+
 - ⚙️ Data Engineering & ETL Pipelines
+
 - 🤖 Machine Learning & NLP
+
 - 📈 Quantitative Finance
+
 - ☁️ Big Data & Cloud Systems
 
 Currently working on large-scale financial intelligence systems, credit scoring platforms, and market surveillance solutions using machine learning, alternative data, and modern data architectures.
