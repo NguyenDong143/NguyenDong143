@@ -70,7 +70,7 @@ Currently working on large-scale financial intelligence systems, credit scoring 
 ## 📌 Featured Projects
 
 ### 🇻🇳 Vietnam Fear & Greed Index (VN-FGI)
-(https://github.com/NguyenDong143/Stock-Sentiment-Econometric-Dashboard)
+https://github.com/NguyenDong143/Stock-Sentiment-Econometric-Dashboard
 
 Financial Intelligence Platform for the Vietnamese Stock Market.
 **Tech:** Airflow • FastAPI • Docker • Streamlit • PhoBERT • FinBERT
@@ -96,7 +96,7 @@ Alternative-data credit scoring platform using telecom behavioral data.
 ---
 
 ### 📈 NLP-Driven Stock Manipulation Detection
-(https://github.com/NguyenDong143/NLP-Driven-Stock-Manipulation-Detection)
+https://github.com/NguyenDong143/NLP-Driven-Stock-Manipulation-Detection
 
 AI-powered market surveillance platform.
 **Tech:** PhoBERT • VAR/TVAR • Granger Causality • Streamlit
@@ -109,7 +109,7 @@ AI-powered market surveillance platform.
 ---
 
 ### 📊 VN30 Sentiment-Driven Forecasting
-(https://github.com/NguyenDong143/VN30-Sentiment---Driven-Stock-Forecasting)
+https://github.com/NguyenDong143/VN30-Sentiment---Driven-Stock-Forecasting
 
 LSTM forecasting framework integrating news sentiment.
 **Tech:** FinBERT • LSTM • Streamlit • SQL
