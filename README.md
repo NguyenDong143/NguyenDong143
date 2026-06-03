@@ -121,17 +121,10 @@ LSTM forecasting framework integrating news sentiment.
 ---
 
 ## 🏆 Research & Achievements
-
 🥇 First Author & Presenter – IEEE DeFi 2025
-
 📄 NLP-Driven Financial Market Surveillance Research
-
 🏅 Faculty Research Award (2024 & 2025)
-
 🎓 Bachelor of Financial Technology – PTIT
-
-📊 GPA: 3.2 / 4.0
-
 ---
 
 ## 📫 Connect With Me
