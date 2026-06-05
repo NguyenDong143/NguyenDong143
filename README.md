@@ -99,8 +99,8 @@ Alternative-data credit scoring platform using telecom behavioral data.
 
 ---
 
-### 📈 NLP-Driven Stock Manipulation Detection
-https://github.com/NguyenDong143/NLP-Driven-Stock-Manipulation-Detection
+### 📈 Analyzing Effects of News on Stock Prices using NLP and Econometric Models Evidence from the Vietnamese Stock Market
+https://github.com/NguyenDong143/Analyzing_Effects_of-Newson-Stock-Prices
 
 AI-powered market surveillance platform.
 **Tech:** PhoBERT • VAR/TVAR • Granger Causality • Streamlit
